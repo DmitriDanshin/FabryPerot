@@ -1,0 +1,15 @@
+C:\Users\dmitr\RiderProjects\FabryPerot\FabryPerot\bin\Debug\net6.0\FabryPerot.exe
+C:\Users\dmitr\RiderProjects\FabryPerot\FabryPerot\bin\Debug\net6.0\FabryPerot.deps.json
+C:\Users\dmitr\RiderProjects\FabryPerot\FabryPerot\bin\Debug\net6.0\FabryPerot.runtimeconfig.json
+C:\Users\dmitr\RiderProjects\FabryPerot\FabryPerot\bin\Debug\net6.0\FabryPerot.dll
+C:\Users\dmitr\RiderProjects\FabryPerot\FabryPerot\bin\Debug\net6.0\FabryPerot.pdb
+C:\Users\dmitr\RiderProjects\FabryPerot\FabryPerot\obj\Debug\net6.0\FabryPerot.csproj.AssemblyReference.cache
+C:\Users\dmitr\RiderProjects\FabryPerot\FabryPerot\obj\Debug\net6.0\FabryPerot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitr\RiderProjects\FabryPerot\FabryPerot\obj\Debug\net6.0\FabryPerot.AssemblyInfoInputs.cache
+C:\Users\dmitr\RiderProjects\FabryPerot\FabryPerot\obj\Debug\net6.0\FabryPerot.AssemblyInfo.cs
+C:\Users\dmitr\RiderProjects\FabryPerot\FabryPerot\obj\Debug\net6.0\FabryPerot.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\RiderProjects\FabryPerot\FabryPerot\obj\Debug\net6.0\FabryPerot.dll
+C:\Users\dmitr\RiderProjects\FabryPerot\FabryPerot\obj\Debug\net6.0\refint\FabryPerot.dll
+C:\Users\dmitr\RiderProjects\FabryPerot\FabryPerot\obj\Debug\net6.0\FabryPerot.pdb
+C:\Users\dmitr\RiderProjects\FabryPerot\FabryPerot\obj\Debug\net6.0\FabryPerot.genruntimeconfig.cache
+C:\Users\dmitr\RiderProjects\FabryPerot\FabryPerot\obj\Debug\net6.0\ref\FabryPerot.dll
